@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Vec2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7458D3A8-1E79-4FDB-858A-78734F25FD9A}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\Vec2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Component.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Component.h",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Component.h",
+              "RelativeToolTip": "ConsoleApplication2\\Component.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T10:06:11.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Entity.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Entity.cpp",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Entity.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\Entity.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T10:05:19.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Entity.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Entity.h",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Entity.h",
+              "RelativeToolTip": "ConsoleApplication2\\Entity.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T10:04:50.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityManager.cpp",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\EntityManager.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\EntityManager.cpp",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\EntityManager.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\EntityManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T10:03:53.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Game.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Game.cpp",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Game.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T10:01:20.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vec2.cpp",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Vec2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Vec2.cpp",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Vec2.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\Vec2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T10:06:50.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vec2.h",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Vec2.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Vec2.h",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Vec2.h",
+              "RelativeToolTip": "ConsoleApplication2\\Vec2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T10:07:22.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityManager.h",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\EntityManager.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\EntityManager.h",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\EntityManager.h",
+              "RelativeToolTip": "ConsoleApplication2\\EntityManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T10:03:14.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Game.h",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Game.h",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\Game.h",
+              "RelativeToolTip": "ConsoleApplication2\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T10:02:08.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\main.cpp",
+              "ToolTip": "C:\\Users\\91975\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T04:52:31.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

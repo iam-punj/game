@@ -1,0 +1,5 @@
+Window 1280 720 60 0
+Font ./../font/RugenExpanded.ttf 20 100 100 100 
+Player 32 32 0 0 0 255 0 0 4 8 8
+Enemy 32 32 255 255 255 5 3 10 500 60 5 10 
+Bullet 10 10 0 0 0 255 255 255 2 6 720 15

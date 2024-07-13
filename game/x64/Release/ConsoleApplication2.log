@@ -1,0 +1,76 @@
+﻿  Entity.cpp
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Component.h(24,30): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+  EntityManager.cpp
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Component.h(24,30): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\EntityManager.cpp(5,29): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Game.cpp
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Component.h(24,30): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,109): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,109): warning C4244:         with
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,109): warning C4244:         [
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,109): warning C4244:             T=int
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,109): warning C4244:         ]
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,73): warning C4244:         with
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,73): warning C4244:         [
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,73): warning C4244:             T=int
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(211,73): warning C4244:         ]
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,92): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,92): warning C4244:         with
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,92): warning C4244:         [
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,92): warning C4244:             T=unsigned int
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,92): warning C4244:         ]
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,64): warning C4244:         with
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,64): warning C4244:         [
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,64): warning C4244:             T=unsigned int
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(344,64): warning C4244:         ]
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(345,215): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(345,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(345,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(346,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(368,200): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(368,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(368,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,195): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,280): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,246): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,245): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(369,194): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(370,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(382,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(382,84): warning C4244:         with
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(382,84): warning C4244:         [
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(382,84): warning C4244:             T=unsigned int
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(382,84): warning C4244:         ]
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(399,216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(399,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(399,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(402,161): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(403,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(411,108): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(431,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(432,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(434,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(446,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(447,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(449,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(463,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(464,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(466,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(491,167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(491,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(491,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Game.cpp(492,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Component.h(24,30): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+  Vec2.cpp
+C:\Users\91975\source\repos\ConsoleApplication2\ConsoleApplication2\Vec2.cpp(62,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 479 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication2.vcxproj -> C:\Users\91975\source\repos\ConsoleApplication2\x64\Release\ConsoleApplication2.exe
